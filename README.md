@@ -3,6 +3,7 @@
 # Title : Osteo-Synergy
 ## An Automated Osteo Fracture Detection System Supported by LinuxOne
 
+<br></br>
 ## Problem:
 The current process of diagnosing bone fractures from X-ray images in the medical domain often encounters challenges due to the reliance on manual interpretation by radiologists. This manual approach may lead to delays in diagnosis, potential misinterpretations, and variations in expertise, affecting patient care and treatment timelines. Moreover, the increasing demand for swift and accurate fracture detection necessitates a more efficient and automated system.
 <br></br>
@@ -41,7 +42,7 @@ The proposed model, 'ResNet_model,' amalgamates the strengths of transfer learni
 
 
 ## Output:
-<br></br>
+
 ## ResNet Model Reaches the **Accuracy of 94% and Validation Accuracy of 75%**
 
 ![Accuracy](https://github.com/naveenkumar12624/19AI701-MINI_PROJECT_TEAM_ML-20/assets/93427235/b1447558-54c6-42f2-85a6-cf58fb745eff)
