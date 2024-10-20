@@ -10,7 +10,7 @@ The current process of diagnosing bone fractures from X-ray images in the medica
 
 ## Solution:
 By leveraging the advanced ResNet152V2 architecture combined with custom residual blocks, a novel deep learning-based solution for bone fracture detection can be established. This amalgamation harnesses the power of transfer learning from the pre-trained ResNet152V2 model.The primary objective of this mini-project is to develop an innovative deep learning model capable of accurately detecting bone fractures from medical imaging data, specifically X-ray images.
-
+<br></br>
 ### The proposed methodology involves:
 
 **Transfer Learning with ResNet152V2:** Utilize the pre-trained ResNet152V2, a state-of-the-art convolutional neural network, as a foundational base model for feature extraction from bone X-ray images. This pre-trained network possesses learned features from a large dataset (ImageNet) and thus exhibits a deep understanding of general image patterns.
@@ -27,7 +27,7 @@ The proposed model, 'ResNet_model,' amalgamates the strengths of transfer learni
 
 ## Architectural Diagram :
 ![Picture1](https://github.com/user-attachments/assets/fadea553-0613-4f23-aa3a-dc6ac376fec5)
-
+<br></br>
 ## Design Steps:
 
 1) Image Data Collection
@@ -39,7 +39,7 @@ The proposed model, 'ResNet_model,' amalgamates the strengths of transfer learni
 
 ## Flow Diagram :
 ![image](https://github.com/user-attachments/assets/4767923a-31ab-43c3-8ce8-fbf52610d61f)
-
+<br></br>
 
 ## Output:
 
